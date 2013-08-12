@@ -1,0 +1,7 @@
+c:\tempmydoc\visual studio 2010\Projects\RSA\RSA\obj\Debug\ResolveAssemblyReference.cache
+C:\tempMyDoc\Visual Studio 2010\Projects\RSA\RSA\bin\Debug\RSA.dll
+C:\tempMyDoc\Visual Studio 2010\Projects\RSA\RSA\bin\Debug\RSA.pdb
+C:\tempMyDoc\Visual Studio 2010\Projects\RSA\RSA\bin\Debug\Extensions.dll
+C:\tempMyDoc\Visual Studio 2010\Projects\RSA\RSA\bin\Debug\Extensions.pdb
+C:\tempMyDoc\Visual Studio 2010\Projects\RSA\RSA\obj\Debug\RSA.dll
+C:\tempMyDoc\Visual Studio 2010\Projects\RSA\RSA\obj\Debug\RSA.pdb
